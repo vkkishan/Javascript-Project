@@ -1,0 +1,2 @@
+# Javascript-Project
+vanilla javascript
